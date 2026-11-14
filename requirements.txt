@@ -1,0 +1,15 @@
+# Core web framework
+Flask>=3.0,<4
+requests>=2.31
+werkzeug
+
+# Document processing
+pypdf>=4.2
+python-docx>=1.1
+openpyxl>=3.1
+Pillow>=10.0
+
+# ML / Safety models (installed via run.bat with CUDA index)
+# torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# transformers accelerate safetensors tokenizers
+

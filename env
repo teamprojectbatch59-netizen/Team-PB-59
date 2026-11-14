@@ -1,0 +1,14 @@
+# Copy this file to .env and enter your own values.
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=teamprojectbatch.59@gmail.com
+SMTP_PASSWORD=yhkl hvve mpsm hqza
+SMTP_FROM_EMAIL=teamprojectbatch.59@gmail.com
+SMTP_FROM_NAME=Ruas AI
+SMTP_USE_TLS=true
+SMTP_USE_SSL=false
+
+# Generate a stable value with: python -c "import secrets; print(secrets.token_urlsafe(48))"
+SECRET_KEY=9886322195
+
+# Local safety pipeline checkpoints (relative to this project directory).

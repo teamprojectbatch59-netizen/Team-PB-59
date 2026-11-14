@@ -1,0 +1,9 @@
+{
+  "sidebar": "default",
+  "reduceMotion": false,
+  "theme": "dark",
+  "defaultModel": "qwen3-vl:8b",
+  "performance": "fast",
+  "temperature": 0.7,
+  "maxUpload": 20
+}
