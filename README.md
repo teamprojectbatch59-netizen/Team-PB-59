@@ -29,7 +29,6 @@ The framework analyzes harmful prompts based on attack type, severity, and targe
 | Technology | Purpose |
 |---|---|
 | Python | Core development |
-| Prompt Guard 2 | Safe and harmful prompt detection |
 | DeBERTa-v3 | Attack classification |
 | ModernBERT | Attack analysis |
 | Llama Guard 3 | Security classification |
